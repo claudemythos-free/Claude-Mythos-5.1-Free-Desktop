@@ -1,0 +1,2 @@
+/* rev-c8a21f-20260927 */
+v5.1.1 sep 27 2026: thinking panel, task profiles, opus note
